@@ -1,0 +1,54 @@
+---
+label: Story Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: text
+  name: type
+  label: type
+- type: text
+  name: status
+  label: status
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: text
+  name: url
+  label: url
+- type: field_group
+  name: featured_image
+  label: featured_image
+  fields:
+  - type: file
+    name: src
+    label: src
+  - type: text
+    name: alt
+    label: alt
+- type: field_group
+  name: audio
+  label: audio
+  fields:
+  - type: text
+    name: mp3
+    label: mp3
+  - type: number
+    name: length
+    label: length
+  - type: text
+    name: mime
+    label: mime
+- type: text
+  name: series
+  label: series
+- type: list
+  name: tags
+  label: tags
