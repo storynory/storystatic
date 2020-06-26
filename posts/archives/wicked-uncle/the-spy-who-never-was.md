@@ -2,27 +2,41 @@
 title: The Spy Who Never Was
 author: Bertie
 type: post
-date: 2020-04-13T19:56:26+00:00
-excerpt: "Suspense and intrigue with Storynory's Wicked Uncle Jeff. The family are convinced that he is secretly a spy. The first of two parts... the second coming very soon ! "
-url: /the-spy-who-never-was/
-featured_image: /wp-content/uploads/2020/04/wicked-uncle-skateboard.jpg
+date: 2020-04-13T19:56:26.000+00:00
+excerpt: 'Suspense and intrigue with Storynory''s Wicked Uncle Jeff. The family are
+  convinced that he is secretly a spy. The first of two parts... the second coming
+  very soon ! '
+url: "/the-spy-who-never-was/"
+featured_image:
+  src: ''
+  alt: ''
+  artist: ''
 enclosure:
-  - |
-    |
-        http://traffic.libsyn.com/blogrelations/wicked-spy.mp3
-        0
-        audio/mpeg
-        
+- "|\n    http://traffic.libsyn.com/blogrelations/wicked-spy.mp3\n    0\n    audio/mpeg\n
+  \   \n"
 parents:
-  - Andrew Dubinsky
+- Andrew Dubinsky
 dedicated_to:
-  - Henry in New York
+- Henry in New York
 Series:
-  - wicked-uncle
+- wicked-uncle
 categories:
-  - All Stories
-  - Latest Stories for Podcast
-  - Wicked Uncle
+- All Stories
+- Latest Stories for Podcast
+- Wicked Uncle
+status: ''
+audio:
+  mp3: ''
+  length: 
+  mime: ''
+series: ''
+tags: []
+credits:
+  author: ''
+  narrator: ''
+  artist: ''
+  editor: ''
+  musician: ''
 
 ---
 <audio class="wp-audio-shortcode" id="audio-27404-24" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://traffic.libsyn.com/blogrelations/wicked-spy.mp3?_=24" /><http://traffic.libsyn.com/blogrelations/wicked-spy.mp3></audio>

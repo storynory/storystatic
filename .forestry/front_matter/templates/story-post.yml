@@ -92,4 +92,5 @@ fields:
   label: Credits
   description: contributors credits
 pages:
+- posts/archives/wicked-uncle/the-spy-who-never-was.md
 - posts/poems/the-owl-and-the-pussycat.md
