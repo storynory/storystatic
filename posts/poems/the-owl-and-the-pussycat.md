@@ -13,6 +13,11 @@ series: poems
 tags:
 - Classic Authors
 - Poems
+status: Published
+audio:
+  mp3: ''
+  length: 
+  mime: ''
 
 ---
 {% srcset "poems/owl_pussy_cat.jpg", "The owl and the pussycat sailed to sea by Edward Lear" %}

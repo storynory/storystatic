@@ -53,3 +53,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- posts/poems/the-owl-and-the-pussycat.md
