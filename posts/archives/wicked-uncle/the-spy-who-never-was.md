@@ -11,9 +11,9 @@ featured_image:
   src: ''
   alt: ''
   artist: ''
-enclosure:
-- "|\n    http://traffic.libsyn.com/blogrelations/wicked-spy.mp3\n    0\n    audio/mpeg\n
-  \   \n"
+audio:
+    wicked-spy.mp3      
+  
 parents:
 - Andrew Dubinsky
 dedicated_to:
@@ -32,11 +32,11 @@ audio:
 series: ''
 tags: []
 credits:
-  author: ''
-  narrator: ''
-  artist: ''
-  editor: ''
-  musician: ''
+  author: 'Bertie Fraser'
+  narrator: 'Richard Scott'
+  artist: 'Bertie Fraser'
+  editor: 'Jana Elizabeth'
+  musician: 'Bertie / Logic Pro X loops'
 
 ---
 <audio class="wp-audio-shortcode" id="audio-27404-24" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://traffic.libsyn.com/blogrelations/wicked-spy.mp3?_=24" /><http://traffic.libsyn.com/blogrelations/wicked-spy.mp3></audio>
