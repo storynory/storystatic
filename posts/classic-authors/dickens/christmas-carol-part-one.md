@@ -4,7 +4,7 @@ author: Bertie
 type: post
 status: published
 date: 2005-12-02
-excerpt: "Humbug ! Dickens' s Christmas tale is retold as a mini-play, with Natasha and Rob playing all the parts between them including  Scrooge! A squeezing, wrenching, grasping, scraping, clutching covetous old sinner!"
+excerpt: "Humbug! Dickens's Christmas tale is retold as a mini-play, with Natasha and Rob playing all the parts between them including  Scrooge! A squeezing, wrenching, grasping, scraping, clutching covetous old sinner!"
 url: /a-christmas-carol-part-one/
 featured_image: 
         src: christmas-carol/fezziwig-ball-sq.jpg
