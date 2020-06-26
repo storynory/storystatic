@@ -1,0 +1,282 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+    padding: 0;
+    margin: 0;
+    outline: none;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.flex-grid {
+  display: flex;
+  width: 100%;
+}
+
+.col {
+  flex: 1;
+}
+
+main {
+  max-width: 768px;
+  margin: auto;
+  padding:  2rem 0.75rem;
+}
+
+@media (min-width: 1290px) {
+  main {
+    margin: 0;
+    }
+}
+
+p,
+body {
+  font-size: 1.3125rem;
+  line-height: 2.5rem;
+  font-family:  -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+p {
+  margin-bottom: 2rem;
+}
+
+h1 {
+  font-size: 2.70rem;
+  line-height: 3rem;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-size: 2.12rem;
+  line-height: 2.5rem;
+}
+
+h3 {
+  font-size: 2.12rem;
+  line-height: 2.5rem;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Handlee', cursive ;
+  color: #69A366;
+  letter-spacing: 3px;
+  text-align: center;
+}
+
+body {
+  color: #333;
+}
+
+.flex {
+  display:flex {}
+}
+
+.navbar {
+  background: #5A6886;
+  color:  #EFD480;
+  font-family: 'Handlee', cursive;
+}
+
+.nav-links {
+  width: 100%;
+}
+
+.nav-links li {
+  padding-right: 1em;
+  list-style: none;
+}
+
+.navbar a {
+  text-decoration: none;
+  color:  #EFD480;
+}
+
+.navbar a:hover {
+  border-bottom: 3px solid white;
+}
+
+.title {
+  font-size: 2.12rem;
+  letter-spacing: 2px;
+  text-shadow: -1px -1px 0 #5a6886, 1px -1px 0 #5a6886, -1px 1px 0 #5a6886, 1px 1px 0 #5a6886;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  height: 4.5rem;
+  padding-left: 1em;
+}
+
+.navbar svg {
+  fill: #EFD480;
+}
+
+.navbar svg:hover {
+  fill: #FFF;
+}
+
+.title {
+  padding-left: 1em;
+}
+
+.search {
+  line-height: 1.3125rem;
+  width: 300px;
+  font-size: 1.03rem;
+  padding:  4px ;
+  border: 1px solid gray;
+  border-radius: 4px;
+}
+
+.search-form {
+  order: 2;
+  padding-right: 0.5em;
+}
+
+.navbar .search-icon {
+  position: relative;
+  left: -30px;
+  top: 4px;
+  color: #333;
+  fill: #333;
+}
+
+@media (min-width: 1024px) {
+  .navbar {
+    justify-content: space-between;
+    height: 4.5rem;
+    }
+
+  .flex {
+    display: flex;
+    align-items: center;
+    }
+}
+
+@media (max-width: 1024px) {
+  .navbar {
+    height: 108px ;
+    overflow: hidden;
+    }
+
+  .navbar.active {
+    height: auto;
+    }
+
+  .nav-links li {
+    line-height: 3rem;
+    border-bottom: 1px solid gray;
+    text-indent: 1em;
+    }
+
+  
+  .search-form {
+    width: 100%;
+    display: flex;
+    padding-left: 1em;
+    }
+    
+  
+  .search {
+    width: 100%;
+    }
+}
+
+.ham {
+  transition: opacity, filter 0.15s;
+  background: transparent;
+  border-color: transparent;
+}
+
+.ham-box {
+  width: 1.5rem;
+  height: 0.75rem;
+  display: inline-block;
+  position: relative;
+  perspective: 80px;
+}
+
+.ham-inner {
+  display: block;
+  top: 50%;
+  margin-top: -2px;
+}
+
+.ham-inner,
+.ham-inner::before,
+.ham-inner::after {
+  width: 1.5rem;
+  height: 3px;
+  background-color: #EFD480;
+  border-radius: 3px;
+  position: absolute;
+  transition: transform 0.15s ease;
+}
+
+.ham-inner::before,
+.ham-inner::after {
+  content: "";
+  display: block;
+}
+
+.ham-inner::before {
+  top: -8px;
+}
+
+.ham-inner::after {
+  bottom: -8px;
+}
+
+.ham-inner {
+  transition: transform 0.15s cubic-bezier(0.645, 0.045, 0.355, 1), background-color 0s 0.1s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.ham-inner::before,
+.ham-inner::after {
+  transition: transform 0s 0.1s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+#navbar.active .ham-inner {
+  background-color: transparent !important;
+  transform: rotateY(180deg);
+}
+
+#navbar.active .ham-inner::before {
+  transform: translate3d(0, 8px, 0) rotate(45deg);
+}
+
+#navbar.active .ham-inner::after {
+  transform: translate3d(0,
+      -8px,
+      0) rotate(-45deg);
+}
+
+.card {
+  border-radius: 4px;
+  background-color: #fff;
+  background-color: var(--mdc-theme-surface, #fff);
+  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 
+              0px 1px 1px 0px rgba(0, 0, 0, 0.14), 
+              0px 1px 3px 0px rgba(0,0,0,.12);
+  display: flex;
+  box-sizing: border-box ;
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+.mbp {
+  margin-bottom: 2rem;
+}

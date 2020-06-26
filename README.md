@@ -75,3 +75,30 @@ DEBUG=* npx eleventy
   * `_includes/layouts/home.njk`: the home page template (wrapped into `base.njk`)
   * `_includes/layouts/post.njk`: the blog post template (wrapped into `base.njk`)
 * `_includes/postlist.njk` is a Nunjucks include and is a reusable component used to display a list of all the posts. `index.njk` has an example of how to use it.
+
+
+###The perfect YouTube video size for 2020
+The ideal dimensions for a standard YouTube video are 1080p, or 1920 x 1080.
+
+This is the highest HD resolution you can use. However, depending on your situation and use of YouTube, you may prefer a different size.
+
+
+Resolution	  Name	Quality
+
+3840x2160	     2160p	4K
+2560x1440	     1440p	2K
+1920x1080	     1080p	Maximum resolution for HD
+1280x720	     720p	Minimum resolution for HD
+854x480	       480p	Standard definition
+640x360	       360p	Traditional website resolution
+426x240	       240p	Minimum YouTube video size
+
+
+
+# change this to whitelist your host       
+#        if ($myhost !~ ".*(host1.com|host2.org|host3.edu|host4.net|host5.info)$") {
+#            set $image_uri "";
+#            set $debugkey "$myhost=denied";
+#            return 403;
+#            break;
+#      

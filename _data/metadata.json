@@ -1,15 +1,36 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Storynory",
+  "url": "https://www.storynory.com",
+  "description": "Free audio stories for kes",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Free audio stories for kids",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://myurl.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
-  }
+    "name": "bertie fraser",
+    "email": "bertie@storynory.com"
+  },
+  "stories": [
+    "/the-frog/",
+    "/christmas-carol-part-one/",
+    "/a-christmas-carol-part-two/",
+    "/the-sleeping-beauty/",
+    "/the-sleeping-beauty-part-two/",
+    "/berties-christmas-storynory/",
+    "/how-prince-bertie-became-bertie-the-frog/",
+    "/harry-and-rosie-trick-santa/",
+    "/cats-elopement/",
+    "/kissa-the-cat/",
+    "/hansel-and-gretel-2/",
+    "/goldilocks-and-the-three-bears/",
+    "/the-elephants-child/",
+    "/the-owl-and-the-pussycat/",
+    "/the-princess-and-the-pea/",
+    "/tim-the-tadpole-learns-about-easter-eggs/",
+    "/flying-trunk-hans-christian-andersen-fairy-tale/",
+    "/free-audio-story-ali-baba-forty-thieves/",
+    "/easter-egg-hunt/"
+  ]
 }

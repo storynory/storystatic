@@ -1,0 +1,104 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+<style>
+#results p {
+  margin-bottom: 32px;
+}
+
+#results a {
+  text-decoration: none;
+  color: inherit
+}
+
+#results a:hover {
+  text-decoration: underline
+}
+
+
+</style>
+
+<div id="results">
+
+
+</div>
+
+
+
+<script>
+
+
+
+
+const append= (text, el, url) => { 
+  var node = document.createElement(el)
+  var textnode = document.createTextNode(text)
+  var a = document.createElement('a') 
+  a.href = url
+  a.appendChild(textnode) 
+  node.appendChild(a)                          
+  document.getElementById("results").appendChild(node)    
+}
+
+
+
+let query  = window.location.search;
+
+query = query.replace("?s=", "").split("+").join(" | ");
+
+console.log(query);
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.js"></script>
+<script>
+
+fetch( "/api/posts.json" )
+  .then(response => response.json())
+  .then(data => {
+ 
+const options = {
+ keys: [
+    {
+      name: 'title',
+      weight: 1
+    },
+    {
+      name: 'description',
+      weight: 2
+    }
+  ],
+
+  threshold: 0.6,
+  distance: 100,
+  location: 0,
+  includeScore: true,
+  useExtendedSearch: true
+}
+
+const fuse = new Fuse(data, options)
+
+const result = fuse.search(query)
+
+var i;
+for (i = 0; i < result.length; i++) {
+
+let title  = (result[i].item.title)
+let descrip = (result[i].item.description)
+let url = (result[i].item.url)
+
+append(title, "h2", url)
+append(descrip, "p", url)
+
+
+
+
+
+}
+
+})
+
+</script>
+
+
+

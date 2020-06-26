@@ -1,5 +1,7 @@
 {
   "tags": [
-    "posts"
-  ]
+    "Stories"
+  ],
+  "layout": "layouts/post.njk",
+  "permalink": "./{{ page.fileSlug }}/"
 }

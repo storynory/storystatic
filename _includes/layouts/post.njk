@@ -4,6 +4,19 @@ templateClass: tmpl-post
 ---
 <h1>{{ title }}</h1>
 
-{{ content | safe }}
+{% for tag in tags %}
+<a href="/tags/{{tag | slug}}/">{{tag}}</a> 
 
-<p><a href="{{ '/' | url }}">← Home</a></p>
+{% endfor %}
+
+{% if (page.featured_image) %}
+    {% srcset page.featured_image.src, page.featured_image.alt %}
+{% endif %}
+{% player page.fileSlug %}
+{{ content | safe }}
+<script>
+   {% include 'js/audio.js' %}
+</script>
+<style>
+{% include 'styles/audio.css' %}
+</style>

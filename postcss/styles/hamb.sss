@@ -1,0 +1,69 @@
+.ham 
+  transition: opacity, filter 0.15s
+  background: transparent
+  border-color: transparent
+
+
+.ham-box 
+  width: $base.line.sm
+  height: $base.line.xs
+  display: inline-block
+  position: relative
+  perspective: 80px
+
+
+.ham-inner 
+  display: block
+  top: 50%
+  margin-top: -2px
+
+
+.ham-inner,
+.ham-inner::before,
+.ham-inner::after 
+  width: $base.line.sm
+  height: 3px
+  background-color: $colors.secondary
+  border-radius: 3px
+  position: absolute
+  transition: transform 0.15s ease
+ 
+
+.ham-inner::before,
+.ham-inner::after 
+  content: ""
+  display: block
+ 
+
+.ham-inner::before 
+  top: -8px
+ 
+
+.ham-inner::after 
+  bottom: -8px
+ 
+
+
+.ham-inner 
+  transition: transform 0.15s cubic-bezier(0.645, 0.045, 0.355, 1), background-color 0s 0.1s cubic-bezier(0.645, 0.045, 0.355, 1)
+ 
+
+.ham-inner::before,
+.ham-inner::after 
+  transition: transform 0s 0.1s cubic-bezier(0.645, 0.045, 0.355, 1)
+ 
+
+#navbar.active .ham-inner 
+  background-color: transparent !important
+  transform: rotateY(180deg)
+ 
+
+#navbar.active .ham-inner::before 
+  transform: translate3d(0, 8px, 0) rotate(45deg)
+ 
+
+#navbar.active .ham-inner::after 
+  transform: translate3d(0,
+      -8px,
+      0) rotate(-45deg)
+ 

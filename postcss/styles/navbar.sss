@@ -1,0 +1,105 @@
+
+.flex
+  display:flex
+
+.navbar
+  background: $colors.primary
+  color:  $colors.secondary
+  font-family: 'Handlee', cursive
+
+.nav-links
+  width: 100%
+  
+
+.nav-links li 
+  padding-right: 1em
+  list-style: none
+  
+  
+.navbar a 
+  text-decoration: none
+  color:  $colors.secondary
+ 
+.navbar a:hover
+  border-bottom: 3px solid white
+
+
+.title 
+  font-size: $base.size.md
+  letter-spacing: 2px
+  text-shadow: -1px -1px 0 #5a6886, 1px -1px 0 #5a6886, -1px 1px 0 #5a6886, 1px 1px 0 #5a6886
+
+
+.brand 
+  display: flex
+  align-items: center
+  height: $base.line.xl
+  padding-left: 1em
+
+
+.navbar svg
+  fill: #EFD480
+
+.navbar svg:hover
+  fill: #FFF
+
+.title
+  padding-left: 1em
+
+.search
+  line-height: $base.size.p
+  width: 300px
+  font-size: $base.size.sm
+  padding:  4px 
+  border: 1px solid gray
+  border-radius: 4px
+  
+ 
+.search-form 
+  order: 2
+  padding-right: 0.5em
+
+.navbar .search-icon 
+  position: relative
+  left: -30px
+  top: 4px
+  color: #333
+  fill: #333
+
+
+@media (min-width: $bp.desk)
+  .navbar 
+    justify-content: space-between
+    height: $base.line.xl
+
+  .flex 
+    display: flex
+    align-items: center
+
+@media (max-width: $bp.desk)  
+  .navbar 
+    height: 108px 
+    overflow: hidden
+
+  .navbar.active 
+    height: auto
+
+  .nav-links li
+    line-height: $base.line.lg
+    border-bottom: 1px solid gray
+    text-indent: 1em
+
+  
+  .search-form
+    width: 100%
+    display: flex
+    padding-left: 1em
+    
+  
+  .search 
+    width: 100%
+
+   
+
+  
+ 

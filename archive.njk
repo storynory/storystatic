@@ -9,4 +9,12 @@ eleventyNavigation:
 <h1>Archive</h1>
 
 {% set postslist = collections.posts %}
-{% include "postslist.njk" %}
+<ol>
+
+{%- for post in postslist | reverse %}
+  <li><a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></li>
+  
+
+{%- endfor %}
+
+</ol>

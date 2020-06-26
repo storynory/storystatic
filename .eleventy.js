@@ -5,28 +5,41 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const ampValidate = require("./filters/ampvalidate");
+const srcset = require("./shortcodes/srcset")
+const player = require("./shortcodes/audioplayer")
 
-module.exports = function(eleventyConfig) {
+
+module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(ampValidate);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
-
+  eleventyConfig.addLiquidShortcode("srcset", srcset);
+  eleventyConfig.addNunjucksShortcode("srcset", srcset);
+  eleventyConfig.addNunjucksShortcode("player", player);
+  eleventyConfig.addLiquidShortcode("player", player);
   eleventyConfig.setDataDeepMerge(true);
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
+    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat("dd LLL yyyy");
   });
+
+  // eleventyConfig.addNunjucksAsyncFilter("postcss", require("./postcss/postcssFilter"));
+
+
+
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd');
   });
 
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter("head", (array, n) => {
-    if( n < 0 ) {
+    if (n < 0) {
       return array.slice(n);
     }
 
@@ -37,6 +50,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("audio");
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
@@ -53,7 +67,7 @@ module.exports = function(eleventyConfig) {
   // Browsersync Overrides
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
-      ready: function(err, browserSync) {
+      ready: function (err, browserSync) {
         const content_404 = fs.readFileSync('_site/404.html');
 
         browserSync.addMiddleware("*", (req, res) => {
@@ -97,4 +111,10 @@ module.exports = function(eleventyConfig) {
       output: "_site"
     }
   };
+
+
+
 };
+
+
+
