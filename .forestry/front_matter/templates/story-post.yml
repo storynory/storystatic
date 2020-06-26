@@ -34,6 +34,12 @@ fields:
   - type: text
     name: alt
     label: alt
+  - name: artist
+    type: text
+    config:
+      required: false
+    label: artist
+    description: credit to artist of image
 - type: field_group
   name: audio
   label: audio
@@ -53,5 +59,40 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: credits
+  type: field_group
+  config: {}
+  fields:
+  - name: author
+    type: text
+    config:
+      required: false
+    label: Author
+    description: Author(s)
+  - name: narrator
+    type: text
+    config:
+      required: false
+    label: Narrator
+    description: Narrator(s)
+  - name: artist
+    type: text
+    config:
+      required: false
+    label: Artist
+    description: Artist
+  - name: editor
+    type: text
+    config:
+      required: false
+    label: Editor
+    description: Editor / proofreader
+  - name: musician
+    type: text
+    config:
+      required: false
+    label: Musician
+  label: Credits
+  description: contributors credits
 pages:
 - posts/poems/the-owl-and-the-pussycat.md
