@@ -78,7 +78,7 @@ The deer was elusive and swift on its feet. Heracles was strong, but not so fast
 
 Apollo knew very well that Heracles was no ordinary man, but the son of Zeus. He consulted with Artemis and they agreed on a compromise. He could take the sacred dear to Eurystheus alive, but then he must let it go. That was how Heracles completed his third labour and reported back to the king of Tiryns.
 
-\##The Erymanthian Boar
+## The Erymanthian Boar
 
 “That was an easy one,” said Eurystheus, “The dear wasn’t a threat to anyone. Now you must take on a more dangerous foe. A wild boar is terrorising the people of Erymanthia. Your fourth task is to defeat the Erymanthian Boar. Since you are going a bit soft and don’t like killing animals anymore, you must bring back the bad piggy to me alive.”
 
@@ -86,13 +86,13 @@ And so Heracles set off once more across the part of Greece that is called the P
 
 When the other centaurs smelled roast meat, they came to see which human was visiting their land. They found Heracles and Pholus drinking their favourite wine and they were angry. Soon a mob of centaurs were hurling rocks and Fir trees at the pair. Heracles easily fought them off, and chased the hooligan horses as far as Malea, before letting them go. After the little diversion with the centaurs and the wine, he resumed his labour. He found the Erymanthian Boar, and backed it into a hollow. The cornered creature tried to charge Heracles with its tusks, but that was a mistake. The hero bopped it on the head with a rock and knocked it out. He then trussed up the unconscious pig, and carried it back to Mycenae.
 
-\## The Augean Stables
+## The Augean Stables
 
 While Heracles was away, King Eurystheus was busy searching for more impossible tasks. Next, he came up with something that made him smile. It was not so very dangerous, but it was delightfully disgusting. Heracles must clean out the Augean Stables and do it in just one day. Augeas was king of Elis, and he had many herds of cattle. They were famous for the volume and the stink of their dung. When Heracles was given this smelly job, he was furious – cleaning out stables was not work fit for a son of Zeus. When he came before Augeas, he demanded to be paid for the task. The king agreed to give him a herd of cattle. Heracles managed to get the job done without dirtying his big hands; he diverted two rivers to run through the stables and flush them out.
 
 When King Eurystheus heard from his spies that Heracles had been paid for cleaning out the stables, he ruled that the labour would not count. He angrily told Heracles that his orders were to work for free. That was how hero ended up doing twelve instead of ten labours.
 
-\##The Stymphalian Birds
+## The Stymphalian Birds
 
 For his sixth task, Heracles had to rid the lake of Stymphalos of some very nasty birds. A strange feathered flock that were eating the other birds and all the fish in the lake. The local people, who made their living from the water, were going hungry. Heracles’ problem was that the birds were all hidden in the reeds. How could he hunt down an entire flock? The goddess Athena came to his rescue. She leant him her castanets, which he clacked in his hands to make a divine din. The noise terrified the birds and they took flight. Once they were in the air, Heracles could shoot them down with his quick firing arrows.
 
