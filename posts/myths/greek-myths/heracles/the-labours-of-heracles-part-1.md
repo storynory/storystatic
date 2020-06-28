@@ -78,7 +78,7 @@ The deer was elusive and swift on its feet. Heracles was strong, but not so fast
 
 Apollo knew very well that Heracles was no ordinary man, but the son of Zeus. He consulted with Artemis and they agreed on a compromise. He could take the sacred dear to Eurystheus alive, but then he must let it go. That was how Heracles completed his third labour and reported back to the king of Tiryns.
 
-## The Erymanthian Boar
+\##   The Erymanthian Boar
 
 “That was an easy one,” said Eurystheus, “The dear wasn’t a threat to anyone. Now you must take on a more dangerous foe. A wild boar is terrorising the people of Erymanthia. Your fourth task is to defeat the Erymanthian Boar. Since you are going a bit soft and don’t like killing animals anymore, you must bring back the bad piggy to me alive.”
 
