@@ -66,7 +66,7 @@ He returned to Eurystheus with news of his victory, but the king was not satisfi
 
 ## The Ceryneian Hind
 
-{% srcset, "myths/greek/heracles/3-heracles-ceryneian-hind.jpg", "Ceryneian Hind", "Cyrenian Hind" %}
+{% srcset, "myths/greek/heracles/3-heracles- ceryneian-hind.jpg", "Ceryneian Hind", "Cyrenian Hind" %}
 
 The deer was elusive and swift on its feet. Heracles was strong, but not so fast. He spent a year tracking the graceful creature over the hills of Ceryneia. Artemis, the goddess of hunting, did not approve of humans tracking her dear. When Heracles fired an arrow at her sacred dear, she was angry. Even though she was a goddess, she feared the strength in the arms of the son of Zeus. She brought Apollo along for moral support. The golden god of light appeared before Heracles and said,
 
