@@ -9,6 +9,7 @@ url: "/the-owl-and-the-pussycat/"
 featured_image:
   src: poems/owl_pussy_cat-sq.jpg
   alt: owl and the pussy cat poem
+  artist: ''
 series: poems
 tags:
 - Classic Authors
@@ -18,9 +19,17 @@ audio:
   mp3: ''
   length: 
   mime: ''
+credits:
+  author: ''
+  narrator: ''
+  artist: ''
+  editor: ''
+  musician: ''
 
 ---
 {% srcset "poems/owl_pussy_cat.jpg", "The owl and the pussycat sailed to sea by Edward Lear" %}
+
+
 image by SnowStock / shutterstock
 
 Edward Lear first published this charming piece of nonsense in 1871 as part of his book Nonsense Songs, Stories, Botany, and Alphabets.
