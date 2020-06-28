@@ -3,73 +3,73 @@ title: The Labours of Heracles Part 1
 author: Bertie
 type: post
 date: 2013-01-27
-excerpt: 'Heracles (Hercules in Latin) was the the strong-man of the ancient world.  He performed twelve labours, and we tell you about the first 6 in this episode'
-url: /the-labours-of-heracles-part-1/
-featured_image: /wp-content/uploads/2017/09/myths-greek-heracles-storynory-300.jpg
-audio: 
-    mp3: heracles-storynory.mp3
+excerpt: Heracles (Hercules in Latin) was the the strong-man of the ancient world.  He
+  performed twelve labours, and we tell you about the first 6 in this episode
+url: "/the-labours-of-heracles-part-1/"
+featured_image: "/wp-content/uploads/2017/09/myths-greek-heracles-storynory-300.jpg"
+audio:
+  mp3: heracles-storynory.mp3
+
 ---
-
-
-  
 Picture by Bertie for Storynory
 
-Heracles was a favourite hero of both the Greeks and the Romans (the Romans called him Hercules). The goddess Hera (wife of Zeus) hated him, and made him perform 12 impossible tasks &#8211; impossible for anyone but Hercules.
+Heracles was a favourite hero of both the Greeks and the Romans (the Romans called him Hercules). The goddess Hera (wife of Zeus) hated him, and made him perform 12 impossible tasks – impossible for anyone but Hercules.
 
 ## The 12 Labours of Heracles (Hercules)
+
 <ol>
-  <li>
-    The Nemean Lion
-  </li>
+<li>
+The Nemean Lion
+</li>
 
-  <li>
-    The Lernaean Hydra
-  </li>
+<li>
+The Lernaean Hydra
+</li>
 
-  <li>
-    The Ceryneian Hind
-  </li>
+<li>
+The Ceryneian Hind
+</li>
 
-  <li>
-    The Erymanthian Boar
-  </li>
+<li>
+The Erymanthian Boar
+</li>
 
-  <li>
-    The Augean Stables
-  </li>
+<li>
+The Augean Stables
+</li>
 
-  <li>
-    The Stymphalian Birds
-  </li>
+<li>
+The Stymphalian Birds
+</li>
 
-  <li>
-    The Cretan Bull
-  </li>
- <li>
-  The Mares of Diomedes
-    </li>
- <li>
-  The Belt of Hippolyte
- <li>
-   </li>
-  The Cattle of Geryon
-    </li>
- <li>
-  The Apples of the Hesperides
-    </li>
- <li>
-  Cerberus
-    </li>
-  
- </ol>   
-    As Hercules has such an action packed life, we are presenting his biography in two parts. Here we bring you the first six labours. You will also hear about his early life. 
-    
+<li>
+The Cretan Bull
+</li>
+<li>
+The Mares of Diomedes
+</li>
+<li>
+The Belt of Hippolyte
+<li>
+</li>
+The Cattle of Geryon
+</li>
+<li>
+The Apples of the Hesperides
+</li>
+<li>
+Cerberus
+</li>
+
+</ol>  
+As Hercules has such an action packed life, we are presenting his biography in two parts. Here we bring you the first six labours. You will also hear about his early life.
+
     [Listen to Part 2 here.][12] 
     
     Read by Richard. Adapted by Bertie (mostly following [Apollodorus][13]). Proofread by Claire Deakin.
-  
+    
     Main picture by Bertie for Storynry
-  
+    
     <!--more-->
     
     Hello, this is Richard, and I’m here to tell you about a hero from ancient times. I’m pretty sure you will have heard of him before. The Greeks called him Heracles, and the Romans changed his name slightly to Hercules. He is most famous for performing 12 impossible labours on behalf of mankind. He had so many adventures, that his story is a long one – and for that reason, I’m going to tell it to you in several parts. This is the first:
@@ -112,7 +112,7 @@ Heracles was a favourite hero of both the Greeks and the Romans (the Romans call
       <h2>
         The Lernaean Hydra
       </h2>
-      
+      {srcset, "myths/greek/heracles/1-heracles-nemean-lion.jpg", "Nemean Lion" %}
       <p>
         Heracles’ next task was to fight another terrible creature. This one lurked in the swamps of Lerna, and it was known as the Lernaean Hydra. It was giant snake with multiple heads. If you cut off one of its heads, two more would grow in its place. It was indeed a fierce opponent. Even Heracles did not think he could fight this monster on his own. He enlisted the help of his nephew, Iolaus. Heracles fought the Hydra with his sword, and each time he lopped off one of its heads, Iolaus jumped in with a torch and burned the stump before it sprout a couple of new heads. Hera looked down on this struggle to the death, and thought, “Two humans against one monster! That’s hardly fair!” and she sent a giant crab to join in the fight. Heracles and Iolaus stood back to back and fought off both these supernatural beasts. After defeating them in battle, Heracles collected some of the Hydra’s blood to use as poison on his arrows.
       </p>
@@ -187,17 +187,3 @@ Heracles was a favourite hero of both the Greeks and the Romans (the Romans call
     </div>
     
     [Listen to Part 2 here.][12]
-
- [1]: #nemean
- [2]: #lernaean
- [3]: #ceryneian
- [4]: #erymanthian
- [5]: #augean
- [6]: #stymphalian
- [7]: /2013/02/04/the-labours-of-heracles-part-2/#cretan
- [8]: /2013/02/04/the-labours-of-heracles-part-2/#diomedes
- [9]: /2013/02/04/the-labours-of-heracles-part-2/#geryon
- [10]: /2013/02/04/the-labours-of-heracles-part-2/#hesperides
- [11]: /2013/02/04/the-labours-of-heracles-part-2/#cerberus
- [12]: http://storynory.com/2013/02/04/the-labours-of-heracles-part-2/
- [13]: http://www.theoi.com/Text/Apollodorus1.html
