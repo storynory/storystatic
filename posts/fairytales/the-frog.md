@@ -4,15 +4,16 @@ author: Bertie
 type: post
 narrator: Natasha
 date: 2005-10-31
-excerpt: 'A frog who helps a young man in the search for his wife.  From the Violet Fairy Book of Andrew Lang.'
-audio:  thefrog.mp3
-featured_image: 
-        src: fairytales/cute-princess-frog.jpg
-tags: 
-   -  World Stories
-   -  All Stories
----
+excerpt: A frog who helps a young man in the search for his wife.  From the Violet
+  Fairy Book of Andrew Lang.
+audio: thefrog.mp3
+featured_image:
+  src: fairytales/cute-princess-frog.jpg
+tags:
+- World Stories
+- All Stories
 
+---
 {% player page.fileSlug %}
 {% srcset  "cute-princess-frog.jpg", "princess with frog" %}
 
@@ -24,7 +25,7 @@ Once upon a time there was a rich farmer woman who had three sons. One day all t
 
 This is one of Prince Bertie’s favourite stories. It is about an extremely clever girl-frog who helps out out a young man in distress.
 
-The Frog
+## The Frog
 
 Hi everybody. My name is Natasha, and I’ve been commanded by His Royal Highness, Prince Bertie the Frog, to tell you a Storynory.
 
@@ -36,7 +37,7 @@ Now… Do you really, really want me to read a Storynory? (Pause) Did you say ye
 
 Proofread by Claire Deakin & Jana Elizabeth.
 
-THE FROG &#8211;
+THE FROG –
 
 Once upon a time there was a rich farmer woman who had three sons. One day all three told their mother they wanted to get married. To which their mother replied: “Do as you like, but see that you choose good wives; and to make certain of this, take with you these three balls of wool, and give it to the girls to knit. Whoever knits the best pair of socks will be my favourite daughter-in-law.”
 
@@ -55,7 +56,7 @@ You may imagine how delighted the young man was. She put the socks into his hand
 Then she turned to her sons and said: “This is not enough, my sons. I must have other proof as to what sort of wives you have chosen. In the house there are three puppies. Each of you take one, and give it to the woman whom you mean to bring home as your wife. She must train it and bring it up. Whichever dog turns out the best, its mistress will be my favourite daughter-in-law.”
 
 So the young men set out on their different ways, each taking a puppy with him. The youngest, not knowing where to go, returned to the pond, sat down once more on the bank, and began to weep.
-    
+
 Flop! Close beside him, he saw the frog. “Why are you weeping?” She said. Then he told her his difficulty, and that he did not know to whom he should take the puppy.
 
 “Give it to me,” she said, “and I will bring it up for you.” And, seeing that the youth hesitated, she took the little creature out of his arms, and disappeared with it into the pond.
@@ -80,11 +81,11 @@ Flop! And once more the faithful frog was beside him. “What is troubling you s
 
 “Come with me,” she said. So he got up and followed her into the cart.
 
-As they drove along the road they met three witches; the first of them was blind, the second was hunchbacked, and the third had a large thorn in her throat. 
+As they drove along the road they met three witches; the first of them was blind, the second was hunchbacked, and the third had a large thorn in her throat.
 
 When the three witches beheld the cart, with the frog seated pompously among the cushions, they broke into such fits of laughter that the eyelids of the blind one burst open, and she recovered her sight; the hunchback rolled about on the ground in merriment until her back became straight; and in a roar of laughter the thorn fell out of the throat of the third witch.
 
-Their first thought was to reward the frog, who had accidentally cured their misfortunes. The first witch waved her magic wand over the frog, and changed her into the loveliest girl that had ever been seen. The second witch waved the wand over the tiny cart and ponies, and they were turned into a beautiful large carriage with prancing horses, and a coachman on the seat. The third witch gave the girl a magic purse, filled with money. 
+Their first thought was to reward the frog, who had accidentally cured their misfortunes. The first witch waved her magic wand over the frog, and changed her into the loveliest girl that had ever been seen. The second witch waved the wand over the tiny cart and ponies, and they were turned into a beautiful large carriage with prancing horses, and a coachman on the seat. The third witch gave the girl a magic purse, filled with money.
 
 Having done this, the witches disappeared, and the youth with his lovely bride drove to his mother’s home. The mother was delighted to see her youngest son’s good fortune. A beautiful house was built for them. She was the favourite daughter-in-law. Everything went well with them, and they lived happily ever after.
 
