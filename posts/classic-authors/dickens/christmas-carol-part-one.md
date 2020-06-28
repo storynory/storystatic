@@ -14,16 +14,9 @@ audio:
     length: 8356113
     mime: audio/mpeg
 series: dickens
-tags:
-  - Christmas Stories
-  - Dickens
-
-
 ---
 
 {% srcset "christmas-carol/fezziwigs.jpg", "Fezziwig's Ball" %}
-
-
 
 In three parts:
   

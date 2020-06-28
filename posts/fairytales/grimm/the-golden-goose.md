@@ -11,18 +11,9 @@ excerpt: |
 url: /the-golden-goose/
 
 enclosure:
-        http://media.libsyn.com/media/blogrelations/goldengoose.mp3
-        15357048
-        audio/mpeg
-        
-Series:
-  - brothers-grimm
-categories:
-  - All Stories
-  - Brothers Grimm
-  - Fairy Tales
-  - Latest Stories for Podcast
-
+        mp3: goldengoose.mp3
+        length: 15357048
+        mime: audio/mpeg
 ---
 
 {% srcset, "fairytales/grimm/goose/gg.jpg", "three girls stick to golden goose and follow boy" %}
@@ -31,13 +22,11 @@ This amusing tale by the Brothers Grimm tells the tale of a boy whose parents ca
 
 But if you are expecting this goose to lay a golden egg, please don’t be disappointed. It’s value, according to the Brothers Grimm, is in its golden feathers.
 
-The Golden Goose has a few features in common with the English tale, [Lazy Jack,][2] and we think that if you like one, you’ll enjoy the other!
+The Golden Goose has a few features in common with the English tale  and we think that if you like one, you’ll enjoy the other!
 
-<span style="font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; -webkit-text-size-adjust: 100%;">Read by Natasha. Duration 14.56.</span>
+Read by Natasha. Duration 14.56.
 
-<span style="font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; -webkit-text-size-adjust: 100%;">Proofread by Claire Deakin & Jana Elizabeth.</span>
-
-<span id="more-740"></span>
+Proofread by Claire Deakin & Jana Elizabeth.
   
 Once upon a time, there lived a woodcutter and his wife, who had three sons. The eldest two were strong and tall, and their mother and father were always telling them how handsome and clever they were – but the youngest son was, to tell you the truth, just a bit simple in the head. He wasn’t very tall, and he wasn’t very strong, and his family thought he was good for nothing. They hardly ever called him by his real name, but instead they gave him a cruel nickname. They called him Dummy, because they said he was stupid.
 

@@ -2,48 +2,28 @@
 title: The Spy Who Never Was
 author: Bertie
 type: post
-date: 2020-04-13T19:56:26.000+00:00
+date: 2020-04-13
 excerpt: 'Suspense and intrigue with Storynory''s Wicked Uncle Jeff. The family are
   convinced that he is secretly a spy. The first of two parts... the second coming
   very soon ! '
 url: "/the-spy-who-never-was/"
-featured_image:
-  src: ''
-  alt: ''
-  artist: ''
 audio:
-    wicked-spy.mp3      
-  
+    mp3: wicked-spy.mp3      
 parents:
 - Andrew Dubinsky
 dedicated_to:
 - Henry in New York
 Series:
 - wicked-uncle
-categories:
-- All Stories
-- Latest Stories for Podcast
-- Wicked Uncle
-status: ''
-audio:
-  mp3: ''
-  length: 
-  mime: ''
-series: ''
-tags: []
 credits:
   author: 'Bertie Fraser'
   narrator: 'Richard Scott'
   artist: 'Bertie Fraser'
   editor: 'Jana Elizabeth'
   musician: 'Bertie / Logic Pro X loops'
-
 ---
-<audio class="wp-audio-shortcode" id="audio-27404-24" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://traffic.libsyn.com/blogrelations/wicked-spy.mp3?_=24" /><http://traffic.libsyn.com/blogrelations/wicked-spy.mp3></audio>
-  
-[<img src="//www.storynory.com/wp-content/uploads/2020/04/wicked-uncle-skateboard-600x450.jpg" alt="Wicked Uncle on a Skateboard" width="600" height="450" class="alignnone size-medium wp-image-27403" srcset="http://localhost:8000/wp-content/uploads/2020/04/wicked-uncle-skateboard-600x450.jpg 600w, http://localhost:8000/wp-content/uploads/2020/04/wicked-uncle-skateboard-768x576.jpg 768w, http://localhost:8000/wp-content/uploads/2020/04/wicked-uncle-skateboard-1200x900.jpg 1200w, http://localhost:8000/wp-content/uploads/2020/04/wicked-uncle-skateboard-200x150.jpg 200w, http://localhost:8000/wp-content/uploads/2020/04/wicked-uncle-skateboard.jpg 2048w" sizes="(max-width: 600px) 100vw, 600px" />][1]
 
-Wicked Uncle&#8217;s &#8211; The Spy Who Never Was.
+Wicked Uncle's The Spy Who Never Was.
 
 Story and picture by Bertie.
   
@@ -52,8 +32,6 @@ Read by Richard.
 Jemima & Mum by Jana.
   
 Dedicated to Henry in New York.
-
-**The idea for this story was inspired by Richard&#8217;s own electric Skateboard &#8211; and you can see him riding his skateboard and reciting poetry on his YouTube channel, [YouTube channel, Sk8oetry][2]**
 
 This story is dedicated to Henry in New York City whose family generously supports us. 
 

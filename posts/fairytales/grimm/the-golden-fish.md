@@ -9,9 +9,8 @@ featured_image:
         src: fairytales/grimm/golden-fish-sq.jpg
         alt: "a wonderful magical fish"
 audio:
-  - src: golden_fish.mp3
-  - length 28227984
-  - brothers-grimm
+   src: golden_fish.mp3
+   length: 28227984
 ---
 {% srcset, "fairytales/grimm/rus-golden-fish.jpg", "golden fish swimming in waves" %}
 
@@ -19,16 +18,12 @@ By the Brothers Grimm
   
 A fisherman catches a golden fish. When the fish announces that he is a prince under an evil spell, the fisherman throws him back into the sea. On his return to his hovel, his wife tells him that he should have asked the magical creature to grant him a wish, and so the fisherman returns to the sea to call out to the fish and ask that the lives of the impoverished couple should be transformed &#8211; but the better life that ensues is not quite enough for them.
 
-This story of over-reaching greed and ambition is known well in many countries including Germany and Russia, but not so much in the English speaking world. It&#8217;s told with the Brothers Grimm&#8217;s usual insight into human frailty.
+This story of over-reaching greed and ambition is known well in many countries including Germany and Russia, but not so much in the English speaking world. It's told with the Brothers Grimm's usual insight into human frailty.
 
 Read by Natasha. Duration 19.30
   
 Proofread by Claire Deakin.
 
-<!--more-->
-
-
-  
 There was once a fisherman who lived with his wife in a pigsty, close by the seaside. The fisherman used to go out all day long a-fishing; and one day, as he sat on the shore with his rod, looking at the sparkling waves and watching his line, all of a sudden his float was dragged away deep into the water. When he reeled in his line, he pulled out a golden fish. But the fish said, &#8220;Pray let me live! I am not a real fish. I am an enchanted prince. Put me in the water again, and let me go!&#8221;
 
 &#8220;Oh, ho!&#8221; Said the man. &#8220;You need not go on much more about the matter. I will have nothing to do with a fish that can talk, so swim away, sir, as soon as you please!&#8221; Then he put him back into the water, and the fish darted straight down to the bottom, and left a long streak of blood behind him on the wave.

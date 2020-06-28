@@ -18,9 +18,6 @@ tags:
   - Dickens
 ---
 {% srcset "christmas-carol/scrouge-marley.jpg", "Fezziwig's Ball" %}
-{% srcset "gilgamesh/plant-ever-lasting-youth", "plant ever lasting" %}
-
-
 
 It was a strange figure &#8211; like a child: yet not so like a child as like an old man. The voice was soft and gentle. I am the ghost of Christmas Past.
 
@@ -30,15 +27,13 @@ No. Your past.
 
 Scrooge made so bold to inquire what business brought the ghost there.
 
-&#8211; Your Welfare.
+ Your Welfare.
 
 Please also see 
 
 [A Christmas Carol 1][1]
 
 [A Christmas Carol 3][2]
-
-&#8212;&#8212;&#8212;&#8212;&#8212;
 
 In this episode Scrooge is visited by two spirits. The first is the ghost of his old business partner, Jacob Marley, who is RATHER SCARY. The Ghost of Christmas Past who follows is kinder and gentler.
 
