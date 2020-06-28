@@ -15,53 +15,20 @@ Picture by Bertie for Storynory
 
 Heracles was a favourite hero of both the Greeks and the Romans (the Romans called him Hercules). The goddess Hera (wife of Zeus) hated him, and made him perform 12 impossible tasks – impossible for anyone but Hercules. 
 
-\##The 12 Labours of Heracles (Hercules)
+## The 12 Labours of Heracles (Hercules)
 
-<ol>
-<li>
-The Nemean Lion
-</li>
-
-<li>
-The Lernaean Hydra
-</li>
-
-<li>
-The Ceryneian Hind
-</li>
-
-<li>
-The Erymanthian Boar
-</li>
-
-<li>
-The Augean Stables
-</li>
-
-<li>
-The Stymphalian Birds
-</li>
-
-<li>
-The Cretan Bull
-</li>
-<li>
-The Mares of Diomedes
-</li>
-<li>
-The Belt of Hippolyte
-<li>
-</li>
-The Cattle of Geryon
-</li>
-<li>
-The Apples of the Hesperides
-</li>
-<li>
-Cerberus
-</li>
-
-</ol>
+ 1.  The Nemean Lion
+ 2.  The Lernaean Hydra 
+ 3.  The Ceryneian Hind 
+ 4.  The Erymanthian Boar
+ 5.  The Augean Stables
+ 6.  The Stymphalian Birds
+ 7.  The Cretan Bull
+ 8. The Mares of Diomedes 
+ 9. The Belt of Hippolyte 
+10.  The Cattle of Geryon 
+11. The Apples of the Hesperides 
+12. Cerberus
 
 Hello, this is Richard, and I’m here to tell you about a hero from ancient times. I’m pretty sure you will have heard of him before. The Greeks called him Heracles, and the Romans changed his name slightly to Hercules. He is most famous for performing 12 impossible labours on behalf of mankind. He had so many adventures, that his story is a long one – and for that reason, I’m going to tell it to you in several parts.  This is the first
 
@@ -77,7 +44,7 @@ Some people say that Heracles became insaner still, before he undertook his hero
 
 He presented himself to Eurystheus, king of Tiryns in Mycenae, who was to set his ten impossible tasks. The sharp-eared among you will have noticed that earlier I said Heracles performed twelve tasks – I didn’t make a mistake – he was supposed to do ten, but he ended up doing twelve. You’ll hear about that later. 
 
- ##The Nemean Lion 
+## The Nemean Lion 
 
 {% srcset, "myths/greek/heracles/1-heracles-nemean-lion.jpg", "Nemean Lion" %}   
 
@@ -91,7 +58,9 @@ The lion looked with curiosity at his bold attacker. Who was this fellow? No ord
 
  If you have ever seen a picture of Heracles, you will know that he liked to wear a lion skin over his shoulders, and that its mane was a kind of hood over his head. The ancient world was full of pictures of Heracles, most of them on vases. The lion skin that he wore was, of course, that of the Nemean Lion. When he reported back to Eurystheus, he was wearing his new uniform. He was such a terrifying site that the king hid inside a giant jug, and spoke to the hero from within it. After that, he forbade him to ever come into the city again. In future, he must stand outside the walls to display his trophies.  
 
-\##The Lernaean Hydra   
+## The Lernaean Hydra   
+
+{% srcset, "myths/greek/heracles/3-heracles-ceryneian-hind.jpg", "Ceryneian Hind", "Cyrenian Hind" %)
 
 Heracles’ next task was to fight another terrible creature. This one lurked in the swamps of Lerna, and it was known as the Lernaean Hydra. It was giant snake with multiple heads. If you cut off one of its heads, two more would grow in its place. It was indeed a fierce opponent. Even Heracles did not think he could fight this monster on his own. He enlisted the help of his nephew, Iolaus. Heracles fought the Hydra with his sword, and each time he lopped off one of its heads, Iolaus jumped in with a torch and burned the stump before it sprout a couple of new heads. Hera looked down on this struggle to the death, and thought, “Two humans against one monster! That’s hardly fair!” and she sent a giant crab to join in the fight. Heracles and Iolaus stood back to back and fought off both these supernatural beasts. After defeating them in battle, Heracles collected some of the Hydra’s blood to use as poison on his arrows.   
 
@@ -125,4 +94,4 @@ When King Eurystheus heard from his spies that Heracles had been paid for cleani
 
 For his sixth task, Heracles had to rid the lake of Stymphalos of some very nasty birds. A strange feathered flock that were eating the other birds and all the fish in the lake. The local people, who made their living from the water, were going hungry. Heracles’ problem was that the birds were all hidden in the reeds. How could he hunt down an entire flock? The goddess Athena came to his rescue. She leant him her castanets, which he clacked in his hands to make a divine din. The noise terrified the birds and they took flight. Once they were in the air, Heracles could shoot them down with his quick firing arrows.   
 
-And so Heracles completed his sixth great labour. There were six more tasks remaining to him before his troubled mind could be free of turmoil. But I think six great adventures are enough for one story. I shall tell you the rest next time, here on Storynory.com    
+And so Heracles completed his sixth great labour. There were six more tasks remaining to him before his troubled mind could be free of turmoil. But I think six great adventures are enough for one story. I shall tell you the rest next time, here on Storynory.com
