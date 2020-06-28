@@ -62,7 +62,7 @@ If you have ever seen a picture of Heracles, you will know that he liked to wear
 
 {%srcset, "myths/greek/heracles/2-heracles-lernaean-hydra.jpg","Lernaean Hydra","Lernaean Hydra"   %}
 
-Heracles’ next task was to fight another terrible creature. This one lurked in the swamps of Lerna, and it was known as the Lernaean Hydra. It was giant snake with multiple heads. If you cut off one of its heads, two more would grow in its place. It was indeed a fierce opponent. Even Heracles did not think he could fight this monster on his own. He enlisted the help of his nephew, Iolaus. Heracles fought the Hydra with his sword, and each time he lopped off one of its heads, Iolaus jumped in with a torch and burned the stump before it sprout a couple of new heads. Hera looked down on this struggle to the death, and thought, “Two humans against one monster! That’s hardly fair!” and she sent a giant crab to join in the fight. Heracles and Iolaus stood back to back and fought off both these supernatural beasts. After defeating them in battle, Heracles collected some of the Hydra’s blood to use as poison on his arrows.
+sHeracles’ next task was to fight another terrible creature. This one lurked in the swamps of Lerna, and it was known as the Lernaean Hydra. It was giant snake with multiple heads. If you cut off one of its heads, two more would grow in its place. It was indeed a fierce opponent. Even Heracles did not think he could fight this monster on his own. He enlisted the help of his nephew, Iolaus. Heracles fought the Hydra with his sword, and each time he lopped off one of its heads, Iolaus jumped in with a torch and burned the stump before it sprout a couple of new heads. Hera looked down on this struggle to the death, and thought, “Two humans against one monster! That’s hardly fair!” and she sent a giant crab to join in the fight. Heracles and Iolaus stood back to back and fought off both these supernatural beasts. After defeating them in battle, Heracles collected some of the Hydra’s blood to use as poison on his arrows.
 
 He returned to Eurystheus with news of his victory, but the king was not satisfied. “You did not fight the Hydra on your own,” he said, “And so the labour does not count.” Heracles shook his giant fist at the king, but Eurystheus, who was feeling safe at the top of his tower, shouted down: “It’s no use arguing. You’ve still got nine more labours to do, Heracles. Your next task is to bring me the sacred deer of Artemis – you’ll find it roaming the hills of Ceryneia. You will know it when you see it. It has little horns, made of gold.”
 
@@ -78,7 +78,7 @@ The deer was elusive and swift on its feet. Heracles was strong, but not so fast
 
 Apollo knew very well that Heracles was no ordinary man, but the son of Zeus. He consulted with Artemis and they agreed on a compromise. He could take the sacred dear to Eurystheus alive, but then he must let it go. That was how Heracles completed his third labour and reported back to the king of Tiryns.
 
-\##The Erymanthian Boar
+## The Erymanthian Boar
 
 “That was an easy one,” said Eurystheus, “The dear wasn’t a threat to anyone. Now you must take on a more dangerous foe. A wild boar is terrorising the people of Erymanthia. Your fourth task is to defeat the Erymanthian Boar. Since you are going a bit soft and don’t like killing animals anymore, you must bring back the bad piggy to me alive.”
 
