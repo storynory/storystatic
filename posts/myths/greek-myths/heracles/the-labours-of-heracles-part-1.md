@@ -13,9 +13,9 @@ audio:
 ---
 Picture by Bertie for Storynory
 
-Heracles was a favourite hero of both the Greeks and the Romans (the Romans called him Hercules). The goddess Hera (wife of Zeus) hated him, and made him perform 12 impossible tasks – impossible for anyone but Hercules.
+Heracles was a favourite hero of both the Greeks and the Romans (the Romans called him Hercules). The goddess Hera (wife of Zeus) hated him, and made him perform 12 impossible tasks – impossible for anyone but Hercules. 
 
-## The 12 Labours of Heracles (Hercules)
+\##The 12 Labours of Heracles (Hercules)
 
 <ol>
 <li>
