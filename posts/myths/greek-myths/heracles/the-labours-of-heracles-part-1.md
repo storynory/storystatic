@@ -112,7 +112,7 @@ As Hercules has such an action packed life, we are presenting his biography in t
       <h2>
         The Lernaean Hydra
       </h2>
-      {srcset, "myths/greek/heracles/1-heracles-nemean-lion.jpg", "Nemean Lion" %}
+      {% srcset, "myths/greek/heracles/1-heracles-nemean-lion.jpg", "Nemean Lion" %}
       <p>
         Heracles’ next task was to fight another terrible creature. This one lurked in the swamps of Lerna, and it was known as the Lernaean Hydra. It was giant snake with multiple heads. If you cut off one of its heads, two more would grow in its place. It was indeed a fierce opponent. Even Heracles did not think he could fight this monster on his own. He enlisted the help of his nephew, Iolaus. Heracles fought the Hydra with his sword, and each time he lopped off one of its heads, Iolaus jumped in with a torch and burned the stump before it sprout a couple of new heads. Hera looked down on this struggle to the death, and thought, “Two humans against one monster! That’s hardly fair!” and she sent a giant crab to join in the fight. Heracles and Iolaus stood back to back and fought off both these supernatural beasts. After defeating them in battle, Heracles collected some of the Hydra’s blood to use as poison on his arrows.
       </p>
