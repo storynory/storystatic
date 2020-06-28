@@ -52,9 +52,7 @@ Eurystheus told Heracles about a lion that was the cause of suffering in the lan
 
 The strongman travelled to Nemea, and the local shepherds soon pointed him in the direction of the lion’s cave. He hid behind a boulder, and waited for it to come out. Towards evening the lion emerged. It was indeed a tremendous beast that would strike fear into most men’s hearts. Heracles pulled an arrow from his quiver, and set it in his bow. It was a powerful weapon, and it took immense strength just to pull back the string and flex it ready to fire. Heracles took aim and let loose the arrow. It flew towards the lion and caught it in the chest – but instead of piercing his skin, the arrow merely bounced off. Heracles quickly shot another arrow, and it was just as useless as the one before. Now he understood why the task was all but impossible. The hide of the Nemean Lion was impervious to weapons.
 
-heading
-
-————-
+## heading
 
 The lion looked with curiosity at his bold attacker. Who was this fellow? No ordinary human for sure. Seeing that Heracles was as strong and fierce as himself, he decided to err on the side of caution. He retreated into his cave.
 
