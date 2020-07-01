@@ -1,11 +1,8 @@
 ---
 title: A Christmas Carol Part One
-author: Bertie
-type: post
 status: published
 date: 2005-12-02
 excerpt: "Humbug! Dickens's Christmas tale is retold as a mini-play, with Natasha and Rob playing all the parts between them including  Scrooge! A squeezing, wrenching, grasping, scraping, clutching covetous old sinner!"
-url: /a-christmas-carol-part-one/
 featured_image: 
         src: christmas-carol/fezziwig-ball-sq.jpg
         alt: "fezziwig dance"
@@ -13,7 +10,6 @@ audio:
     mp3: christmas_carol1.mp3
     length: 8356113
     mime: audio/mpeg
-series: dickens
 ---
 
 {% srcset "christmas-carol/fezziwigs.jpg", "Fezziwig's Ball" %}

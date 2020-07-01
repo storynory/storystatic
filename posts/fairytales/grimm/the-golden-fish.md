@@ -16,7 +16,7 @@ audio:
 
 By the Brothers Grimm
   
-A fisherman catches a golden fish. When the fish announces that he is a prince under an evil spell, the fisherman throws him back into the sea. On his return to his hovel, his wife tells him that he should have asked the magical creature to grant him a wish, and so the fisherman returns to the sea to call out to the fish and ask that the lives of the impoverished couple should be transformed &#8211; but the better life that ensues is not quite enough for them.
+A fisherman catches a golden fish. When the fish announces that he is a prince under an evil spell, the fisherman throws him back into the sea. On his return to his hovel, his wife tells him that he should have asked the magical creature to grant him a wish, and so the fisherman returns to the sea to call out to the fish and ask that the lives of the impoverished couple should be transformed but the better life that ensues is not quite enough for them.
 
 This story of over-reaching greed and ambition is known well in many countries including Germany and Russia, but not so much in the English speaking world. It's told with the Brothers Grimm's usual insight into human frailty.
 

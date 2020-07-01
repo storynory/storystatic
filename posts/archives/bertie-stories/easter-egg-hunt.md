@@ -18,8 +18,6 @@ tags:
 
 {% srcset "easter-eggs.jpg", "Happy Easter with colourful painted eggs" %}
 
-
-
 In this special Bertie Story for Easter, the annual Easter egg hunt in the palace garden is heading for disaster, and Prince Bertie the Frog is about to take the blame for eating the eggs belonging to the children.
 
 Written by Bertie
