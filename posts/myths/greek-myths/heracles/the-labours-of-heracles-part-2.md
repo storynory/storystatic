@@ -16,8 +16,6 @@ If you missed Labours 1- 6, [you can find them here](http://storynory.com/2013/0
 
 Read by Richard, adapted for Storynory by Bertie.
 
-Proofread by Claire Deakin.
-
 <div id="cretan" class="box-top"> <h2> The Cretan Bull </h2>
 
 <p> Eurystheus did not let up. He sent Heracles straight back to work on his sixth labour. For this one, he had to travel further afield than before. He set sail to the island of Crete, where King Minos was king. You may know the story of how Ariadne, the daughter of Minos, helped Theseus to defeat the half-man, half-bull, known as the Minotaur. Now, this was a different beast; It had come out of the sea, and the sea god Poseidon claimed it for his own. He demanded that King Minos make a sacrifice of the bull on the beach. When Minos saw how beautiful the bull was, he played a sneaky trick – he took a different bull down to the beach and sacrificed that one instead- but it is foolish to try and deceive the gods. Poseidon was angry, and he sent his bull trampling all over the island. Its hooves were so heavy that they made the ground shake and buildings fall down. Heracles wrestled the Cretan bull, tied it up, and brought it back as another living exhibit for Eurystheus. The king saw the beautiful bull from the top of his tower. He called down to Heracles and ordered him to set it free: </p>
