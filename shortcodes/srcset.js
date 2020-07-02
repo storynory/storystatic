@@ -1,7 +1,7 @@
 
 const srcset = (img, alt) => {
 
-     let stem = 'https://images.prince.bertie/media';
+     let stem = 'https://storynory.net/media';
      let webp = img.replace("jpg", "webp");
 
 
