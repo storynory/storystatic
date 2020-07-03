@@ -14,7 +14,7 @@ tags:
 - All Stories
 
 ---
-{% player page.fileSlug %} {% srcset  "fairytales/grimm/cute-princess-frog.jpg", "princess with frog" %}
+ {% srcset  "fairytales/grimm/cute-princess-frog.jpg", "princess with frog" %}
 
 Image: cute princess kissing a frog By matiasdelcarmine / adobe stock
 
