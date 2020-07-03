@@ -14,8 +14,7 @@ tags:
 - All Stories
 
 ---
-{% player page.fileSlug %}
-{% srcset  "cute-princess-frog.jpg", "princess with frog" %}
+{% player page.fileSlug %} {% srcset  "fairytales/grimm/cute-princess-frog.jpg", "princess with frog" %}
 
 Image: cute princess kissing a frog By matiasdelcarmine / adobe stock
 
@@ -25,7 +24,7 @@ Once upon a time there was a rich farmer woman who had three sons. One day all t
 
 This is one of Prince Bertie’s favourite stories. It is about an extremely clever girl-frog who helps out out a young man in distress.
 
-## The Frog
+The Frog
 
 Hi everybody. My name is Natasha, and I’ve been commanded by His Royal Highness, Prince Bertie the Frog, to tell you a Storynory.
 
