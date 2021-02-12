@@ -44,12 +44,22 @@ fields:
   - type: text
     name: mp3
     label: mp3
+    description: The name of the file eg  year-of-ox.mp3
   - type: number
     name: length
     label: length
+    description: This is is the same as the size of the file. It can be found with
+      with c ctrl/i on a mac.  Write without commas e.g. 119922050
+  - name: duration
+    type: text
+    config:
+      required: false
+    label: duration
+    description: Write in minutes and seconds eg 07:32
   - type: text
     name: mime
     label: mime
+    description: Usually mp3
 - type: text
   name: series
   label: series

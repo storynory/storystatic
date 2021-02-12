@@ -1,9 +1,11 @@
 ---
 title: The Chinese Year of the Ox
-type: ''
+type: post
 status: Published
 date: 2021-02-11T00:00:00Z
-excerpt: ''
+excerpt: An Ox is a large animal that looks like a bull, but he is generally patient,
+  hard-working, and easy going. And people who are born in the year of the Ox are
+  said to be like that too!
 url: the-chinese-year-of-the-ox
 featured_image:
   src: "lunar-year-of-the-ox.jpg"
