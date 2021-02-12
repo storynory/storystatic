@@ -6,7 +6,7 @@ date: 2020-04-13
 excerpt: 'Suspense and intrigue with Storynory''s Wicked Uncle Jeff. The family are
   convinced that he is secretly a spy. The first of two parts... the second coming
   very soon ! '
-url: "/the-spy-who-never-was/"
+url: the-spy-who-never-was
 audio:
   mp3: wicked-spy.mp3
   length: 14691702
@@ -26,7 +26,7 @@ credits:
   musician: Bertie / Logic Pro X loops
 status: Published
 featured_image:
-  src: "/img/wicked-uncle-skateboard.webp"
+  src: "/img/wicked-uncle-skateboard.jpg"
   alt: Wicked Uncle on A Skateboard
   artist: Bertie
 series: wicked-uncle
