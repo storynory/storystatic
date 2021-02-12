@@ -6,7 +6,7 @@ date: 2021-02-11T00:00:00Z
 excerpt: ''
 url: the-chinese-year-of-the-ox
 featured_image:
-  src: "/img/lunar-year-of-the-ox.jpg"
+  src: "lunar-year-of-the-ox.jpg"
   alt: Chinese Year of the Ox
   artist: Adobe Stock / VD_ele
 audio:
