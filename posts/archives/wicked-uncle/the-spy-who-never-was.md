@@ -8,7 +8,10 @@ excerpt: 'Suspense and intrigue with Storynory''s Wicked Uncle Jeff. The family 
   very soon ! '
 url: "/the-spy-who-never-was/"
 audio:
-    mp3: wicked-spy.mp3      
+  mp3: wicked-spy.mp3
+  length: 
+  duration: ''
+  mime: ''
 parents:
 - Andrew Dubinsky
 dedicated_to:
@@ -16,13 +19,20 @@ dedicated_to:
 Series:
 - wicked-uncle
 credits:
-  author: 'Bertie Fraser'
-  narrator: 'Richard Scott'
-  artist: 'Bertie Fraser'
-  editor: 'Jana Elizabeth'
-  musician: 'Bertie / Logic Pro X loops'
----
+  author: Bertie Fraser
+  narrator: Richard Scott
+  artist: Bertie Fraser
+  editor: Jana Elizabeth
+  musician: Bertie / Logic Pro X loops
+status: Published
+featured_image:
+  src: "/img/wicked-uncle-skateboard.webp"
+  alt: Wicked Uncle on A Skateboard
+  artist: Bertie
+series: ''
+tags: []
 
+---
 Wicked Uncle's The Spy Who Never Was.
 
 Story and picture by Bertie.
