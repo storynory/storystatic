@@ -9,9 +9,9 @@ excerpt: 'Suspense and intrigue with Storynory''s Wicked Uncle Jeff. The family 
 url: "/the-spy-who-never-was/"
 audio:
   mp3: wicked-spy.mp3
-  length: 
-  duration: ''
-  mime: ''
+  length: 14691702
+  duration: '14:41'
+  mime: mp3
 parents:
 - Andrew Dubinsky
 dedicated_to:
