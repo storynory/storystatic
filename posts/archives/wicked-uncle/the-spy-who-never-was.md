@@ -20,7 +20,7 @@ Series:
 - wicked-uncle
 credits:
   author: Bertie Fraser
-  narrator: Richard Scott
+  narrator: Richard Scott, Jana Elizabeth
   artist: Bertie Fraser
   editor: Jana Elizabeth
   musician: Bertie / Logic Pro X loops
@@ -29,7 +29,7 @@ featured_image:
   src: "/img/wicked-uncle-skateboard.webp"
   alt: Wicked Uncle on A Skateboard
   artist: Bertie
-series: ''
+series: wicked-uncle
 tags: []
 
 ---
