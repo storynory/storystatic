@@ -16,13 +16,14 @@ audio:
   length: 23994041
   duration: '15:29'
   mime: mp3
-series: ''
-tags: []
+series: greek-myths
+tags:
+- valentines
 credits:
-  author: ''
-  narrator: ''
-  artist: ''
-  editor: ''
-  musician: ''
+  author: Bertie Fraser with a little help from Christopher Marlowe
+  narrator: Jana Elizabeth
+  artist: Edward Burne-Jones
+  editor: Bertie Fraser
+  musician: Premium Beat / Ancient Land
 
 ---
