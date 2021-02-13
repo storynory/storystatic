@@ -22,8 +22,8 @@ tags:
 credits:
   author: Bertie Fraser with a little help from Christopher Marlowe
   narrator: Jana Elizabeth
-  artist: Edward Burne-Jones
+  artist: Edward Burne-Jones (Wiki Commons)
   editor: Bertie Fraser
-  musician: Premium Beat / Ancient Land
+  musician: 'Premium Beat / KA  ~ Ancient Land '
 
 ---
