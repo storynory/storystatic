@@ -11,10 +11,10 @@ featured_image:
   alt: A wolf howls in the moonlight
   artist: Adobe Stock / Bergfee
 audio:
-  mp3: ''
-  length: 
-  duration: ''
-  mime: ''
+  mp3: jungle-book-chapter1-part3.mp3
+  length: 22686020
+  duration: '15:43'
+  mime: mp3
 series: rudyard-kipling
 tags: []
 credits:
