@@ -21,7 +21,7 @@ credits:
   author: Rudyard Kipling
   narrator: Richard Scott
   artist: Adobe Stock / Bergfee
-  editor: ''
+  editor: Jana Elizabeth
   musician: ''
 
 ---
