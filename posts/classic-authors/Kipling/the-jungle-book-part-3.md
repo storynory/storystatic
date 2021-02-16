@@ -7,9 +7,9 @@ excerpt: 'Akela the leader of the wolves has been a protector of Mowgli, but he 
   growing old. Mowgli may have to fend for himself against Shere Khan the tiger. '
 url: the-jungle-book-part-3
 featured_image:
-  src: ''
-  alt: ''
-  artist: ''
+  src: "/jungle-book-wolf-howl.jpg"
+  alt: A wolf howls in the moonlight
+  artist: Adobe Stock / Bergfee
 audio:
   mp3: ''
   length: 
