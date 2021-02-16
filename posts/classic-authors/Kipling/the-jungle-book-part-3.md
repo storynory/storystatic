@@ -15,12 +15,12 @@ audio:
   length: 
   duration: ''
   mime: ''
-series: ''
+series: rudyard-kipling
 tags: []
 credits:
-  author: ''
-  narrator: ''
-  artist: ''
+  author: Rudyard Kipling
+  narrator: Richard Scott
+  artist: Adobe Stock / Bergfee
   editor: ''
   musician: ''
 
