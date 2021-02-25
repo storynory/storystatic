@@ -102,6 +102,7 @@ fields:
   label: Credits
   description: contributors credits
 pages:
+- posts/archives/katie-and-the-catnappers.md
 - posts/archives/wicked-uncle/the-spy-who-never-was.md
 - posts/classic-authors/Kipling/the-jungle-book-part-3.md
 - posts/classic-authors/Kipling/the-jungle-book-part-4.md
